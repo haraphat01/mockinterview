@@ -5,7 +5,7 @@ export default function Homepage() {
     <div className="min-h-screen bg-white flex flex-col items-center">
       <header className="w-full py-6 bg-gray-900 text-white text-center">
         <h1 className="text-3xl font-bold">MockInterview</h1>
-        <p className="mt-2">Your AI-Powered Interview Practice Platform</p>
+        <p className="mt-2"> AI-Powered Interview Practice Platform</p>
       </header>
       <main className="flex-1 w-full max-w-4xl mx-auto p-4">
         <section className="text-center mt-8">
@@ -45,9 +45,9 @@ export default function Homepage() {
           <p className="mt-4 text-gray-700">
             Join MockInterview today and take the first step towards landing your dream job. Our AI-driven platform is designed to make you stand out from the competition.
           </p>
-          <Link href="/signup" className="mt-6 inline-block bg-blue-600 text-white py-2 px-4 rounded-lg shadow-md hover:bg-blue-700">
+          <Link href="/login" className="mt-6 inline-block bg-blue-600 text-white py-2 px-4 rounded-lg shadow-md hover:bg-blue-700">
             
-              Get Started
+              Get Interviewed
             
           </Link>
         </section>
