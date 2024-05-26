@@ -45,7 +45,7 @@ export default function Homepage() {
           <p className="mt-4 text-gray-700">
             Join MockInterview today and take the first step towards landing your dream job. Our AI-driven platform is designed to make you stand out from the competition.
           </p>
-          <Link href="/login" className="mt-6 inline-block bg-blue-600 text-white py-2 px-4 rounded-lg shadow-md hover:bg-blue-700">
+          <Link href="/dashboard" className="mt-6 inline-block bg-blue-600 text-white py-2 px-4 rounded-lg shadow-md hover:bg-blue-700">
             
               Get Interviewed
             
